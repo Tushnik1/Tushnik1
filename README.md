@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushnik1
 - 👀 I’m interested in Application development
-- 🌱 I’m currently learning Next js, Android Development.
+- 🌱 I’m currently learning Machine Learning, AI Development.
 - 📫 How to reach me Gmail:- tushnik76dutta@gmail.com Instagram:- @techycatter
 
 <!---
